@@ -2,7 +2,7 @@
 
 ## WHAT THIS REPOSITORY CONTAINS:
 
-- This repository contains Core Java programs and practical exercises completed during my Java Full Stack Developer training.
+This repository contains Core Java programs and practical exercises completed during my Java Full Stack Developer training.
 
 ### IT COVERS:
 
