@@ -1,6 +1,4 @@
-# PROJECT TITLE:
-
-# CORE JAVA PROGRAMS – JAVA FULL STACK TRAINING
+# CORE JAVA PROGRAMS - JAVA FULL STACK 
 
 ## WHAT THIS REPOSITORY CONTAINS:
 
@@ -25,11 +23,11 @@
 
 ## TECHNOLOGIES USED:
 
-- Java – Core programming language used to develop and execute programs
-- JDK 17 – Java Development Kit used for compiling and running Java applications
-- Eclipse IDE – Used to write, execute, and debug Java programs
-- Git – Used for version control
-- GitHub – Used to maintain and showcase source code
+- Java - Core programming language used to develop and execute programs
+- JDK 17 - Java Development Kit used for compiling and running Java applications
+- Eclipse IDE - Used to write, execute, and debug Java programs
+- Git - Used for version control
+- GitHub - Used to maintain and showcase source code
 
 ## CHALLENGES FACED DURING PRACTICE:
 
@@ -40,7 +38,7 @@
 - Identifying and fixing compilation and runtime errors
 - Improving logical thinking and problem-solving skills
 
-## INSTALLATION SETUP – TOOLS USED:
+## INSTALLATION SETUP - TOOLS USED:
 
 - Installed JDK 17
 - Installed Eclipse IDE
@@ -83,4 +81,4 @@
 
 - Training Program: Java Full Stack Developer
 - Training Organization: TNS India Foundation
-- Duration: November 2025 – December 2025
+- Duration: October 2025 - January 2026
