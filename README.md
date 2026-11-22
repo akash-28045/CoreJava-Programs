@@ -36,15 +36,15 @@ Exception handling
 
 # TECHNOLOGIES USED:
 
-Java – Core programming language used to develop and execute programs
+Java - Core programming language used to develop and execute programs
 
-JDK 17 – Java Development Kit used for compiling and running Java applications
+JDK 17 - Java Development Kit used for compiling and running Java applications
 
-Eclipse IDE – Used to write, execute, and debug Java programs
+Eclipse IDE - Used to write, execute, and debug Java programs
 
-Git – Used for version control
+Git - Used for version control
 
-GitHub – Used to maintain and showcase source code
+GitHub - Used to maintain and showcase source code
 
 # CHALLENGES FACED DURING PRACTICE:
 
